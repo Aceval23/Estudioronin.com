@@ -9,7 +9,7 @@
     width: 1000px;
     margin: auto;
     height: 1525px;
-  background-color: #C01417;
+  background-color: #900;
 }
 #pie {
     height: 30px;
@@ -144,19 +144,8 @@
 	box-shadow: 6px 6px 8px 4px rgba(0, 0, 0, 0.5);
 	
 }
-
-#contenedor2 {
-    width: 1000px;
-    margin: auto;
-    height: 850px;
-  background-color: #C01417;
-  }
-  
-  #contenedor3 {
-    width: 1000px;
-    margin: auto;
-    height: auto;
-  background-color: #C01417;}
+ 
+ 
  #tabs-1 {
 	 background:#900;
  }
